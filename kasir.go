@@ -14,9 +14,10 @@ type Barang struct {
 func main() {
 	// Membuat daftar barang
 	daftarBarang := []Barang{
-		{"Barang 1", 10.0, 100},
-		{"Barang 2", 20.0, 50},
-		{"Barang 3", 30.0, 30},
+		{"Rokok Surya", 25.0, 70},
+		{"Rokok Sampoerna", 30.0, 80},
+		{"Rokok Diplomat", 26.0, 60},
+		{"Rokok WinBold", 27.0, 75},
 	}
 
 	// Menampilkan daftar barang
